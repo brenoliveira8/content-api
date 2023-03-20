@@ -29,5 +29,10 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-### Environment Variables
+### Environment Variables ###
 .env
+
+### HTML Generated Files ###
+content.html
+movies.html
+series.html
