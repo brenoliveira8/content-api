@@ -6,7 +6,7 @@ Project to fetch data from the IMDb API and Marvel API, generate HTML for displa
 
 This project is a Java application that consumes data from the IMDb and Marvel APIs, and generates HTML for displaying the content. The goal is to allow users to view information about movies and Marvel series in an easy-to-read and appealing format.
 
-This project was developed as part of a challenge proposed by [Alura](https://www.alura.com.br/), a Brazilian online learning platform.
+This project was developed as part of a challenge proposed by [Alura](https://www.alura.com.br/).
 
 ## 🚀 How to Use
 
@@ -16,11 +16,12 @@ This project was developed as part of a challenge proposed by [Alura](https://ww
 
 ## 🛠️ Technologies Used
 
-- Java 19
+- Java SE 19
 - Maven for dealing with dependencies
 - Apache HttpClient library for making HTTP requests
 - HTML and CSS for displaying data
 - Dotenv library for encapsulating the API Keys
+- IntelliJ IDEA 2022.3.3 (Community Edition)
 
 ## 👨‍💻 Authors
 
